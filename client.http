@@ -1,0 +1,4 @@
+
+POST  http://localhost:8081/api/v1/audio/transcript
+
+Body -> from-data key-audioFile file type-File Value- Attach sample audio file
